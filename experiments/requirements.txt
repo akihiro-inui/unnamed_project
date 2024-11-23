@@ -1,0 +1,7 @@
+networkx
+numpy
+scikit-learn
+scipy
+openai
+python-dotenv
+tqdm
